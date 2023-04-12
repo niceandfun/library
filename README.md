@@ -16,11 +16,11 @@
 # Разное
 - [101 вопрос по Python](https://tproger.ru/articles/101-vopros-python-razrabotchiku/)
 - [Синтаксис README.md](https://github.com/GnuriaN/format-README#Заголовки)
-- 
+
 ## Курсы:
 - [Курс по python питонтьютор](https://pythontutor.ru)
 - [Курс по Django](https://tutorial.djangogirls.org/ru/)
-- 
+
 ## Git:
 - [Учебник по Git](https://git-scm.com/book/ru/v2)
 
