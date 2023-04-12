@@ -17,5 +17,5 @@
 # Тестирование
 - Полезные ссылки + внутри Библия QA - https://docs.google.com/spreadsheets/d/18giT_NbYLo9yc7yArAeTMnB8W9m3EqUvwftrfZMUyWQ/edit#gid=0
 
-# Разное:
+# Разное
 - 101 вопрос по Python - https://tproger.ru/articles/101-vopros-python-razrabotchiku/
