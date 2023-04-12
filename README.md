@@ -10,6 +10,10 @@
 - [Как выйти из вложенных циклов](https://habr.com/ru/articles/717864/)
 - [Как работает for в Python](https://pythontutor.ru/lessons/for_loop/)
 
+## IDE:
+- [Где можно писать онлайн код](https://replit.com)
+- [PyCharm базовая настройка](https://habr.com/ru/articles/720480/)
+
 # Тестирование
 - [Полезные ссылки + внутри Библия QA](https://docs.google.com/spreadsheets/d/18giT_NbYLo9yc7yArAeTMnB8W9m3EqUvwftrfZMUyWQ/edit#gid=0)
 
@@ -23,7 +27,9 @@
 
 ## Git:
 - [Учебник по Git](https://git-scm.com/book/ru/v2)
+- [Git sandbox](https://learngitbranching.js.org/?locale=ru_RU)
 
 ## Принципы программирования:
 - [KISS, DRY, YAGNI, BDUF, SOLID, APO](https://habr.com/ru/companies/itelma/articles/546372/)
 - [SOLID](https://habr.com/ru/companies/vk/articles/412699/)
+- [ООП хабр](https://habr.com/ru/articles/463125/)
